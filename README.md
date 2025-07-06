@@ -1,9 +1,17 @@
 ## Hi there! I'm Lucas 👋
-### About me
-- 📖 Compuer sciente student
-- 👾 Learning Python, Flask, HTML and CSS
-- 🏦 RDBMS lover, like MySQL, PostgreSQL and SQLite
-
+### 🔎 About me
+- 👨‍💻 Compuer Sciente Student
+- 👾 Exploring Python, Flask, HTML and CSS
+- 🏦 RDBMS Lover
+- 📖 Always Learning
+#
+### 🔥 Skills
+- Python, CSS, HTML
+- Framework Flask
+- MySQL, PostgreSQL and SQLite
+- VS Code, Git, GitHub and GiLab
+#
+Thanks for reading (:
 <!--
 **zluckas/zluckas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
