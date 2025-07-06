@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi there! I'm Lucas 👋
+### About me
+- 📖 Compuer sciente student
+- 👾 Learning Python, Flask, HTML and CSS
+- 🏦 RDBMS lover, like MySQL, PostgreSQL and SQLite
 
 <!--
 **zluckas/zluckas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on wefoiewmoiwe
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
