@@ -9,7 +9,7 @@
 - Python, CSS, HTML
 - Framework Flask
 - MySQL, PostgreSQL and SQLite
-- VS Code, GitHub and GiLab
+- VS Code, GitHub and GitLab
 #
 Thanks for reading (:
 
