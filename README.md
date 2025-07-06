@@ -1,6 +1,6 @@
 ## Hi there! I'm Lucas 👋
 ### 🔎 About me
-- 👨‍💻 Computer Sciente Student
+- 👨‍💻 Computer Science Student
 - 👾 Exploring Python, Flask, HTML and CSS
 - 🏦 RDBMS Lover
 - 📖 Always Learning
