@@ -1,18 +1,19 @@
-## Hi there! I'm Lucas 👋
-### 🔎 About me
+# Hi there! I'm Lucas 👋
+## 🔎 About me
 - 👨‍💻 Computer Science Student
-- 👾 Exploring Python, Flask, HTML and CSS
+- 👾 Exploring the World of Computing
 - 🏦 RDBMS Lover
 - 📖 Always Learning
 #
-### 🔥 Skills
-- Python, CSS, HTML
-- Framework Flask
-- MySQL, PostgreSQL and SQLite
-- VS Code, GitHub and GitLab
+## 🔥 Skills
+### Languages & Framework
+[![Languages](https://skillicons.dev/icons?i=python,html,css,flask)](https://skillicons.dev)
+
+### Tools & Databases
+[![databases](https://skillicons.dev/icons?i=vscode,git,github,mysql,postgresql,sqlite,alchemy)](https://skillicons.dev)
+
 #
 Thanks for reading (:
-
 <!--
 **zluckas/zluckas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
