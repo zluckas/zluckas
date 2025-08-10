@@ -7,7 +7,7 @@
 
 ## 🔥 Skills
   ### Languages & Databases
-![languages&databases](https://go-skill-icons.vercel.app/api/icons?i=python,html,css,flask,mysql,postgresql,sqlite,sqlalchemy&perline=4)
+![languages & databases](https://go-skill-icons.vercel.app/api/icons?i=python,html,css,flask,mysql,postgresql,sqlite,sqlalchemy&perline=4)
 ### Tools
 ![tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,notion,obsidian,linux,redhat)
 #
