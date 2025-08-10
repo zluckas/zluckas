@@ -4,14 +4,12 @@
 - 👾 Exploring the World of Computing
 - 🏦 RDBMS Lover
 - 📖 Always Learning
-#
+
 ## 🔥 Skills
-### Languages & Framework
-[![Languages](https://skillicons.dev/icons?i=python,html,css,flask)](https://skillicons.dev)
-
-### Tools & Databases
-[![databases](https://skillicons.dev/icons?i=vscode,git,github,mysql,postgresql,sqlite,alchemy)](https://skillicons.dev)
-
+  ### Languages & Databases
+![languages&databases](https://go-skill-icons.vercel.app/api/icons?i=python,html,css,flask,mysql,postgresql,sqlite,sqlalchemy&perline=4)
+### Tools
+![tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,notion,obsidian,linux,redhat)
 #
 Thanks for reading (:
 <!--
