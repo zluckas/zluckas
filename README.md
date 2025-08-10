@@ -11,7 +11,7 @@
 ### Tools
 ![tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,notion,obsidian,linux,redhat)
 #
-Thanks for reading (:
+![lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zluckas&show_icons=true&theme=tokyonight)
 <!--
 **zluckas/zluckas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
