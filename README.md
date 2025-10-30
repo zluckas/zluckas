@@ -9,7 +9,7 @@
   ### Languages & Databases
 ![languages & Databases](https://go-skill-icons.vercel.app/api/icons?i=python,html,css,flask,mysql,postgresql,sqlite,sqlalchemy&perline=4)
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,gitlab,notion,obsidian,linux,redhat)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,gitlab,linux,redhat)
 #
 ![lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zluckas&show_icons=true&theme=tokyonight)\
 <!--
