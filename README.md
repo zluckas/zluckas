@@ -17,9 +17,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zluckas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ----
 <p>
-  <a href="https://www.instagram.com/lucass.nobrega_/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmCLLfCKPHFlqNJgQMNlwltxflGRvhpCcljmkkZdFQFfzqWCCslSgjzjbfzCTmbgLtbQPhq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/lucass.nobrega_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://gitlabccsl.ifrn.edu.br/lucas.nobrega"><img src="https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=orange" /></a>
 </p>
 <!--
 **zluckas/zluckas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
