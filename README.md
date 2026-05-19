@@ -42,6 +42,8 @@
   <img src="https://cdn.simpleicons.org/github/white" style="width:43px"/>
   <img/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:45px"/>
+  <img/>
+  <img src="https://devicons.io/devicons/icons/nodejs-icon.svg" style="width:45px"/>
           
 </p>  
 
