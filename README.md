@@ -32,8 +32,8 @@
 
 ## Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width:45px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="width:45px"/> 
+  <img src="https://devicons.io/devicons/icons/ubuntu.svg" style="width:45px"/>  
+  <img src="https://devicons.io/devicons/icons/figma.svg" style="width:45px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="width:45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="width:45px"/>
   <img/>
