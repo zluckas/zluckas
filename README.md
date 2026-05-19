@@ -1,7 +1,7 @@
 # Hello, World! 👋
 ## About me
 👨‍💻 IFRN Student <br>
-👾 Developer <br>
+👾 Backend Developer <br>
 🏦 Relational Database Enthusiast
 
 ## Front and Back 
