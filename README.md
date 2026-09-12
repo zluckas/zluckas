@@ -1,53 +1,18 @@
-# Hello, World! 👋
+<h1 align="center" style="">Hi, there! I'm Lucas Nóbrega</h1>
+
 ## About me
-👨‍💻 IFRN Student <br>
-👾 Backend Developer <br>
-🏦 Relational Database Enthusiast
+🎓 I am currently completing the Internet Informatics course at IFRN.<br>
+💻 Developer with knowledge of backend, frontend, and data technologies.<br>
 
 ## Front and Back 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:43px"/>
-  <img/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:39px"/>
-  <img/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" style="width:40px"/>
-  <img/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:38px"/>
-  <img/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" style="width:38px;"/>     
-  <img/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="width:43px"/>  
-</p>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,flask,python,fastapi,&perline=7)](https://skillicons.dev)
 
 ## Relational Databases
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" style="width:50px; height:80px"/>        
-    <img/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width:45px; height: 80px"/>
-    <img/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" style="width:65px"/>
-    <img/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" style="width:80px"/> 
-</p>
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 
 ## Tools
-<p>
-  <img src="https://devicons.io/devicons/icons/ubuntu.svg" style="width:45px"/>  
-  <img src="https://devicons.io/devicons/icons/figma.svg" style="width:45px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="width:45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="width:45px"/>
-  <img/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width:45px"/> 
-  <img/>
-  <img src="https://cdn.simpleicons.org/github/white" style="width:43px"/>
-  <img/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:45px"/>
-  <img/>
-  <img src="https://devicons.io/devicons/icons/nodejs-icon.svg" style="width:45px"/>
-          
-</p>  
+  [![My Skills](https://skillicons.dev/icons?i=linux,figma,vite,git,gitlab,nodejs)](https://skillicons.dev)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zluckas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ----
 <p>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmCLLfCKPHFlqNJgQMNlwltxflGRvhpCcljmkkZdFQFfzqWCCslSgjzjbfzCTmbgLtbQPhq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
