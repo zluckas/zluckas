@@ -12,7 +12,7 @@
 </p>
 
 ![Banner](./about.svg)
--
+- 
 ![Banner](./skills.svg)
 -
 ![Banner](./gh-stats.svg)
